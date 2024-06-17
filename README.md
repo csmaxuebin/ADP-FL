@@ -95,7 +95,7 @@ This file manage data updates or processing in a learning system, in federated l
 
 ##  Experimental Results
 The results demonstrate that the ADP-FL algorithm not only provides robust privacy protection but also enhances model performance across these datasets. It successfully balances privacy and accuracy by dynamically adjusting the clipping threshold based on local updates and employing a privacy budget allocation strategy. This strategy effectively addresses the privacy protection imbalance among clients, optimizing overall model performance while safeguarding user data.
-![输入图片说明]([/imgs/2024-06-17/YzmF779hahpoDV1T.png](https://github.com/csmaxuebin/ADP-FL/blob/main/tp/%7B59E0C5F4-78C8-4615-96D3-FAC99105F825%7D.png))![输入图片说明](/imgs/2024-06-17/UuzQUEkMkJiKBXYe.png)
+![输入图片说明]([/imgs/2024-06-17/YzmF779hahpoDV1T.png](https://github.com/csmaxuebin/ADP-FL/blob/main/tp/%7B59E0C5F4-78C8-4615-96D3-FAC99105F825%7D.png))![输入图片说明]([/imgs/2024-06-17/UuzQUEkMkJiKBXYe.png](https://github.com/csmaxuebin/ADP-FL/blob/main/tp/%7BC62CB217-E01E-4b7a-A238-C95AA623E411%7D.png))
 
 
 
